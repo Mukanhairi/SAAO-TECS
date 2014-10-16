@@ -1,0 +1,94 @@
+body {
+    background-color: #ffff;
+	width:1200px;
+	align: center;
+	margin:auto;
+	border: #dcd9d2 solid 1px;
+	
+}
+
+h2 {
+    color: #0093DD;
+    
+}
+
+hr {
+	color:#dcd9d2;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 16px;
+}
+
+ul.list-menu {
+    list-style-type: none;
+}
+
+a:link {
+    color: #FF0000;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #00000;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #0093DD;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #0000;
+	text-decoration: none;
+}
+
+.breadcrump {
+padding:10px 0px 10px 30px;
+}
+.content{
+height:700px;
+border: #F0F0F0 solid 1px;
+}
+.alert{
+float:right;
+padding-top:-100px;
+}
+
+.tecs-team {
+width:40%;
+float:left;
+}
+#side-menu{
+width:20%;
+float:left;
+padding:25px 20px 0px 30px;
+border: #F0F0F0 solid 1px;
+height:650px;
+background: #F0F0F0 ;
+}
+
+#text-area {
+width:70%;
+float:right;
+padding:25px 20px 0px 30px;
+}
+
+footer {
+background-color: #111111;
+height: 120px;
+
+}
+
+.designer {
+color: white;
+float: right;
+padding-right:20px;
+}
+
+
